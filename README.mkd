@@ -1,0 +1,2 @@
+Uses a great computer program called "William Whitaker's words" to look up the
+meanings of Latin words. http://archives.nd.edu/whitaker/words.htm
